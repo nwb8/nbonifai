@@ -1,7 +1,8 @@
 ## About
 
-Ana Paula Pellegrino is a fifth-year PhD Candidate in Comparative Politics in the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study the dynamics and actors involved in crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by [Fundação Estudar's Leaders program](https://www.estudar.org.br/). A Brazilian national, she holds a BA and MA in International Relations from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
+Ana Paula Pellegrino is a fifth-year PhD Candidate in Comparative Politics in the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study the dynamics and actors involved in crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by [Fundação Estudar's Leaders program](https://www.estudar.org.br/). A Brazilian national, she holds a BA and MA in International Relations and an MA in Data Science from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
 
+Outside of academia, Ana Paula has worked in Brazilian civil society organizations conducting research and advocacy efforts, developing technology and spearheading philantropic strategies. She was also a Fellow at Georgetown's Massive Data Institute, where she led the core data team, who assembled the first iteration of the [Environmental Impact Data Collaborative](https://redivis.com/EIDC).
 
 ## Research
 
