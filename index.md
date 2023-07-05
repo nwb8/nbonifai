@@ -32,7 +32,7 @@ Op-ed available [here](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5e
 
 ## CV
 
-Please find my CV [here](https://drive.google.com/file/d/1uUbZ8fYmImXn14xK8TZAdCFaUVvmWPEo/view?usp=sharing).
+Please find my CV [here](https://drive.google.com/file/d/1Dux7VoeAapB7Ek3BmAwYR_8IwE5iA2zW/view?usp=sharing).
 
 
 ## Contact
