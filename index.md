@@ -1,5 +1,3 @@
-# 
-
 ## About
 
 Ana Paula Pellegrino is a fifth-year PhD Candidate in Comparative Politics in the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study the dynamics and actors involved in crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by Fundação Estudar's Leaders program. A Brazilian national, she holds a BA and MA in International Relations from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
