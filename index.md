@@ -1,6 +1,6 @@
 ## About
 
-Ana Paula Pellegrino is a fifth-year PhD Candidate in Comparative Politics in the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study the dynamics and actors involved in crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by Fundação Estudar's Leaders program. A Brazilian national, she holds a BA and MA in International Relations from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
+Ana Paula Pellegrino is a fifth-year PhD Candidate in Comparative Politics in the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study the dynamics and actors involved in crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by [Fundação Estudar's Leaders program](https://www.estudar.org.br/). A Brazilian national, she holds a BA and MA in International Relations from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
 
 
 ## Research
@@ -8,9 +8,10 @@ Ana Paula Pellegrino is a fifth-year PhD Candidate in Comparative Politics in th
 ### Dissertation Project
 Why do state agents form criminal groups? Ana Paula's dissertation answers this question by comparing two Brazilian states from the 1990s to 2000s. While in one state, groups led by rogue state agents control large parts of the metropolitan region's territory and its population, in a neighboring state, even in the face of large criminal syndicates, such groups have not been formed. She uses mixed methods to test theories and observable implications about institutional and community-based factors that contribute to or impede the formation of such groups.
 
+
 ### Peer-Reviewed Publications
 
-Bullock, J. Pellegrino, A. P. [How do Covid-19 stay-at-home restrictions affect crime? Evidence from Rio de Janeiro, Brazil](https://www.sciencedirect.com/science/article/pii/S1517758021000175). EconomiA, v.22 n.3, 2021.</br>
+- Bullock, J. Pellegrino, A. P. [How do Covid-19 stay-at-home restrictions affect crime? Evidence from Rio de Janeiro, Brazil](https://www.sciencedirect.com/science/article/pii/S1517758021000175). EconomiA, v.22 n.3, 2021.</br>
 Op-ed available [here](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5es-pand%C3%AAmicas-para-pol%C3%ADticas-de-seguran%C3%A7a-p%C3%BAblica-efetivas).
 
 
