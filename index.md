@@ -36,4 +36,4 @@ Please find my CV [here](https://drive.google.com/file/d/1N6QkqLfu_ff6rZHIkoE_Gi
 
 ## Contact
 
-You may reach me at [ap1631@georgetown.edu](mailto:ap1631@georgetown.edu).
+You may reach me <a href="mailto:ap1631@georgetown.edu">here</a>.
