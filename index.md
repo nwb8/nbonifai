@@ -11,7 +11,7 @@ Why do state agents form criminal groups? Ana Paula's dissertation answers this 
 
 ### Peer-Reviewed Publications
 
-- Bullock, J. Pellegrino, A. P. [How do Covid-19 stay-at-home restrictions affect crime? Evidence from Rio de Janeiro, Brazil](https://www.sciencedirect.com/science/article/pii/S1517758021000175). EconomiA, v.22 n.3, 2021.</br>
+- Bullock, J. Pellegrino, A. P., 2022. [How do Covid-19 stay-at-home restrictions affect crime? Evidence from Rio de Janeiro, Brazil](https://www.sciencedirect.com/science/article/pii/S1517758021000175). EconomiA, v.22 n.3.
 Op-ed available [here](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5es-pand%C3%AAmicas-para-pol%C3%ADticas-de-seguran%C3%A7a-p%C3%BAblica-efetivas).
 
 
