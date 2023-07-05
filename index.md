@@ -21,13 +21,6 @@ Why do state agents form criminal groups? Ana Paula's dissertation answers this 
 Bullock, J. Pellegrino, A. P. [How do Covid-19 stay-at-home restrictions affect crime? Evidence from Rio de Janeiro, Brazil](https://www.sciencedirect.com/science/article/pii/S1517758021000175). EconomiA, v.22 n.3, 2021.</br>
 Op-ed available [here](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5es-pand%C3%AAmicas-para-pol%C3%ADticas-de-seguran%C3%A7a-p%C3%BAblica-efetivas).
 
-# Teaching
-
-Teaching Assistant at Georgetown University for:
-▪   	GOVT 040 - Comparative Political Systems / Introductory comparative politics undergraduate seminar, Professor Langenbacher, Fall 2020;
-▪   	GOVT 702 - Quantitative Methods II / Ph.D method sequence, Professor M Bailey, Spring 2021 & Spring 2022
-
-
 # CV
 
 Please find my CV [here](https://drive.google.com/file/d/1N6QkqLfu_ff6rZHIkoE_Gibay3gVzzm0/view?usp=sharing).
