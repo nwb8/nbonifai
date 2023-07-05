@@ -6,7 +6,7 @@ Outside of academia, Ana Paula has worked in Brazilian civil society organizatio
 
 ## Research
 
-### Dissertation Project
+### Dissertation Project: The State that Forges Armed Criminal Groups
 Why do state agents form criminal groups? Ana Paula's dissertation answers this question by comparing two Brazilian states from the 1990s to 2000s. While in one state, groups led by rogue state agents control large parts of the metropolitan region's territory and its population, in a neighboring state, even in the face of large criminal syndicates, such groups have not been formed. She uses mixed methods to test theories and observable implications about institutional and community-based factors that contribute to or impede the formation of such groups.
 
 
@@ -32,7 +32,7 @@ Op-ed available [here](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5e
 
 ## CV
 
-Please find my CV [here](https://drive.google.com/file/d/1N6QkqLfu_ff6rZHIkoE_Gibay3gVzzm0/view?usp=sharing).
+Please find my CV [here](https://drive.google.com/file/d/1uUbZ8fYmImXn14xK8TZAdCFaUVvmWPEo/view?usp=sharing).
 
 
 ## Contact
