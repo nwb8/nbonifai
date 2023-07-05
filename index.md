@@ -17,14 +17,14 @@ Op-ed available [here](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5e
 
 ## Teaching
 
-### Georgetown University, Teaching Assistant
+#### Georgetown University, Teaching Assistant
 - GOVT 040 - Comparative Political Systems / Introductory comparative politics undergraduate seminar, Professor Langenbacher, Fall 2020;
 - GOVT 702 - Quantitative Methods II / Ph.D method sequence, Professor M Bailey, Spring 2021 & Spring 2022.
 
-### Pontifical Catholic University of Rio de Janeiro, Minicourse Instructor
+#### Pontifical Catholic University of Rio de Janeiro, Minicourse Instructor
 - Civil Society Diplomacy. Fall, 2017 and Spring, 2018. Best-evaluated minicourse in 2017.
 
-### Pontifical Catholic University of Rio de Janeiro, Teaching Assistant
+#### Pontifical Catholic University of Rio de Janeiro, Teaching Assistant
 - Theoretical Foundations II / Professor C F P D S Gama. Fall, 2013
 - Violence and International Relations / Professor M Herz. Spring, 2014.
 
