@@ -1,113 +1,43 @@
-# What is VIP?
+# About
 
-The Violence, Instability, and Peace (VIP) Workshop is a virtual forum for scholars studying conflict, protest, crime, peace, and related topics to receive feedback on research-in-progress, including working papers and well-developed pre-analysis plans. The workshop is open to scholars from political science and related disciplines (e.g., sociology, economics, psychology, communication), and from across subfields. 
+Ana Paula Pellegrino is a fifth-year PhD Candidate in Comparative Politics in the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study the dynamics and actors involved in crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by Fundação Estudar's Leaders program. A Brazilian national, she holds a BA and MA in International Relations from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
+</br>
 
-## Check back soon for our Fall 2023 call for proposals!
-     
-## Format
+# Research
 
-Our workshops are one-hour-long sessions dedicated to providing feedback on two featured papers; accordingly, authors will only provide a short 5-minute presentation to provide an overview of the paper. Each paper will then receive 25 minutes of dedicated feedback from both a chosen discussant and other participants. Manuscripts will be circulated at least one week in advance, and all participants are expected to read them.
+## Dissertation Project
+Why do state agents form criminal groups? Ana Paula's dissertation answers this question by comparing two Brazilian states from the 1990s to 2000s. While in one state, groups led by rogue state agents control large parts of the metropolitan region's territory and its population, in a neighboring state, even in the face of large criminal syndicates, such groups have not been formed. She uses mixed methods to test theories and observable implications about institutional and community-based factors that contribute to or impede the formation of such groups.
 
+</br>
 
-# Workshop Information
+## Other Projects
 
-Sign up [here](https://forms.gle/XyMUkb5W9faWTHh97) to receive emails with updates directly.
+*Forthcoming*
+</br>
 
-*Interest in workshopping your paper for the Fall of 2023? Check back in late Spring for our call for papers!*
+# Publications
 
-We consider submissions of full papers (e.g., to be submitted for publication in a peer-reviewed journal, a chapter in an edited volume, or a job market paper) and well-developed research designs or pre-analysis plans. If accepted, you will provide a short presentation (about 5 minutes) and receive about 25 minutes of feedback from a discussant and attendants.
+## Peer-Reviewed
 
-We are open to work from scholars at all career stages, although we particularly aim to provide opportunities for junior scholars and early career researchers, including pre-tenure and non-tenure track faculty, post-docs, and graduate students. We are also committed to promoting opportunities for scholars from historically excluded communities.
+Bullock, J. Pellegrino, A. P. [How do Covid-19 stay-at-home restrictions affect crime? Evidence from Rio de Janeiro, Brazil](https://www.sciencedirect.com/science/article/pii/S1517758021000175). EconomiA, v.22 n.3, 2021.</br>
+Op-ed available [here](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5es-pand%C3%AAmicas-para-pol%C3%ADticas-de-seguran%C3%A7a-p%C3%BAblica-efetivas).
 
-Do you want to **discuss** your peers' work? Volunteer as a discussant [here](https://forms.gle/BVLyRLWQuZ6XSkER7). 
+</br>
 
-Scholars at varying stages of their careers (from advanced PhD candidates to tenured scholars) can serve as discussants, as long as they are willing to read research-in-progress and provide about 10 minutes of feedback. We will do our best to match you with a paper that fits your area of expertise.
+# Teaching
 
+Teaching Assistant at Georgetown University for:
+▪   	GOVT 040 - Comparative Political Systems / Introductory comparative politics undergraduate seminar, Professor Langenbacher, Fall 2020;
+▪   	GOVT 702 - Quantitative Methods II / Ph.D method sequence, Professor M Bailey, Spring 2021 & Spring 2022
 
+</br>
 
-# Past Workshops
+# CV
 
-## Spring 2023
+Please find my CV [here](https://drive.google.com/file/d/1N6QkqLfu_ff6rZHIkoE_Gibay3gVzzm0/view?usp=sharing).
 
- - May 4, 8am PST/11am EST/4pm GMT - [Register here to join via Zoom](https://unc.zoom.us/meeting/register/tJApf-6gpzgpEteNpbRVH2YfGXnLgYg9l0R3)
-    
-    "The Inter-State Dilemma of Transnational Repression: Origin State Strategies and Host State Variation" by [Connor Kopchick (The University of Maryland - College Park)](https://connorkopchick.weebly.com/)
-    
-    Discussant: [Myunghee Lee (Nordic Institute of Asian Studies)](https://politicalscience.ku.dk/staff/Academic_staff/?pure=en/persons/736780)
-     
-     "Returning Home: Child Soldiers, Cleansing Rituals and Reintegration in Uganda" by [Allen Kiconco (Wits University)](https://wits.academia.edu/AllenKiconco)   
-     
-     Discussant: [Rebecca Tapscott (Geneva Graduate Institute)](https://www.graduateinstitute.ch/discover-institute/rebecca-tapscott)
-  - April 6, 8am PST/11am EST/4pm GMT
-    
-    "Effects of Conflicts on Intimate Partner Violence: Evidence from Mexico" by [Anousheh Alamir (European Centre for Advanced Research in Economics and Statistics)](https://app.getsphere.com/anousheh-alamir)
-    
-    Discussant: Marco Alcocer (Predoctoral Fellow, ITAM and Innovations for Poverty Action; PhD candidate, University of California, San Diego; Academy Scholar, Harvard University - fall '23)
-     
-     "Addressing Contentious Variance: Networks, Urban Space, and Collective Action in a Syrian Uprising, 1979–1982" by Motasem Abuzaid (University of Oxford)
-    
-    Discussant: Daniel Solomon (PhD Candidate, Georgetown University)
+</br>
 
- - March 9, 8am PST/11am EST/4pm GMT
-    
-    "The Public Response to Threats of Violence Against Elected Officials" by [Alexandra Filindra (The University of Illinois Chicago)](https://pols.uic.edu/profiles/filindra-alexandra/) & [Laurel Harbridge-Yong (Northwestern University)](https://sites.northwestern.edu/lharbridgeyong/)
-    
-    Discussant: [Elsa Voytas (I.E. University)](https://elsavoytas.com/)
-     
-    "Political Assassination, Elite Cues and Trust in Institutions: Quasi-Experiment from Tunisia" by [Mohamed-Dhia Hammami (Syracuse University)](https://www.mdhiahammami.com/)
-     
-     Discussant: [Mariana Carvalho (Brown University)](https://www.maricarvalho.com/)
+# Contact
 
-- February 9, 8am PST/11am EST/4pm GMT 
-    
-    "The Political Economy of the Heavy Hand: How Poverty Reduces Politicians' Incentives to Reform Security Policies" 
-    by [Andrea Junqueira (Washington University in St. Louis)](https://andreajunqueira.com/)
-     
-     Discussant: [Jessie Trudeau (Brown University)](https://www.jessietrudeau.com/) 
-     
-     "Coercion and Capture in Democratic Politics"
-     by [Andres Uribe (The University of Chicago)](https://www.andresduribe.com/)
-      
-     Discussant: [Alex Braithwaite (The University of Arizona)](https://sgpp.arizona.edu/people/alex-braithwaite)
-     
-
-## Fall 2022 
-
-- December 8, 8am PST/11am EST/4pm GMT
-    
-    "How Does the Geography of Surveillance Affect Collective Action in the Occupied Palestinian Territories?" by [Sandra Penic (University of Geneva)](https://www.unige.ch/cisa/center/members/penic-sandra/)
-     
-     Discussant: [Emily Ritter (Vanderbilt University)](https://www.emilyhenckenritter.com/)
-     
-     "How Corporatist Institutions Shape Criminal Violence: Evidence from Mexico's Nucleos Agrarios" by [Elena Barham (Columbia University)](https://www.elenabarham.com/)
-     
-     Discussant: [Alma Bezares Calderón (Whittier College)](https://almaabezarescalderon.com/)
-
-- November 10, 12pm PST/3pm EST/8pm GMT
-
-    “The Economic Roots of Violence: The Unintended Consequences of Colombia's Close Peace Referendum” by [Andrés Felipe Rivera-Triviño (Universidad Javeriana-Cali)](https://sites.google.com/view/andresriveratrivino/home) & [Paula Zamora-Raiño (Texas A&M University)](https://sites.google.com/view/paulazamora/about-me?authuser=0)
-    
-    Discussant: [Michael Weintraub (Universidade de los Andes)](http://www.miweintraub.com/)
-    
-     “Support from Afar? The Logic of Diaspora Sponsorship to Rebel Organizations” by [Sara Daub (University of Maryland & The Hertie School)](https://www.hertie-school.org/en/research/faculty-and-researchers/profile/person/daub)
-     
-     Discussant: [Jessica Soedirgo (The University of Amsterdam)](http://www.jessicasoedirgo.com/)
-
-- October 13, 8am PST/11am EST/3pm GMT 
-
-    “Violence Against Women and Political Participation in Mexico” by [Angie Torres-Beltran (Cornell)](https://www.angietorresbeltran.com/)
-    
-    Discussant: [Jamie Shenk (Harvard University)](https://www.jamieleeshenk.com/)
-    
-    “Taking to Kill: The Lethality of Hostage-Taking in Civil War” by [Blair Welsh (Essex)](https://www.blairwelsh.com/)
-    
-    Discussant: [Jori Breslawski (Tel Aviv University)](https://sites.google.com/view/joribreslawski)
-
-
-# Organizers
-
-- Ana Paula Pellegrino (PhD Candidate, Georgetown University)
-- Amélie Godefroidt (Post-doctoral Scholar, KU Leuven) 
-- Isabel Laterzo (PhD Candidate, UNC-Chapel Hill)
-- MP Broache (Assistant Professor, UNC-Greensboro)
-- Neeraj Prasad (Assistant Professor, University of Amsterdam)
+You may reach me at ap1631@georgetown.edu
