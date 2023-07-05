@@ -8,18 +8,22 @@ Ana Paula Pellegrino is a fifth-year PhD Candidate in Comparative Politics in th
 ### Dissertation Project
 Why do state agents form criminal groups? Ana Paula's dissertation answers this question by comparing two Brazilian states from the 1990s to 2000s. While in one state, groups led by rogue state agents control large parts of the metropolitan region's territory and its population, in a neighboring state, even in the face of large criminal syndicates, such groups have not been formed. She uses mixed methods to test theories and observable implications about institutional and community-based factors that contribute to or impede the formation of such groups.
 
-
-### Other Projects
-
-*Forthcoming*
-
-
-## Publications
-
-### Peer-Reviewed
+### Peer-Reviewed Publications
 
 Bullock, J. Pellegrino, A. P. [How do Covid-19 stay-at-home restrictions affect crime? Evidence from Rio de Janeiro, Brazil](https://www.sciencedirect.com/science/article/pii/S1517758021000175). EconomiA, v.22 n.3, 2021.</br>
 Op-ed available [here](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5es-pand%C3%AAmicas-para-pol%C3%ADticas-de-seguran%C3%A7a-p%C3%BAblica-efetivas).
+
+
+## Teaching
+
+### Georgetown University, Teaching Assistant
+- GOVT 040 - Comparative Political Systems / Introductory comparative politics undergraduate seminar, Professor Langenbacher, Fall 2020;
+- GOVT 702 - Quantitative Methods II / Ph.D method sequence, Professor M Bailey, Spring 2021 & Spring 2022
+
+### Pontifical Catholic University of Rio de Janeiro
+- Theoretical Foundations II / Professor Carlos Frederico P D S Gama. Fall, 2013
+- Violence and International Relations / Professor Monica Herz. Spring, 2014
+
 
 ## CV
 
