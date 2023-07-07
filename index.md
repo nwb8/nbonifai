@@ -1,14 +1,13 @@
 ## About
 
-Ana Paula Pellegrino is a fifth-year PhD Candidate in Comparative Politics in the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study the dynamics and actors involved in crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by [Fundação Estudar's Leaders program](https://www.estudar.org.br/). A Brazilian national, she holds a BA and MA in International Relations and an MA in Data Science from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
+Ana Paula Pellegrino is a fifth-year PhD Candidate at the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by [Fundação Estudar's Leaders program](https://www.estudar.org.br/). A Brazilian national, she holds a BA and MA in International Relations and an MA in Data Science from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
 
-Outside of academia, Ana Paula has worked in Brazilian civil society organizations conducting research and advocacy efforts, developing technology and spearheading philantropic strategies. She was also a Fellow at Georgetown's Massive Data Institute, where she led the core data team, who assembled the first iteration of the [Environmental Impact Data Collaborative](https://redivis.com/EIDC).
+Outside of academia, Ana Paula has worked in Brazilian civil society organizations conducting research and advocacy, developing technology and spearheading philantropic strategies. She was also a Fellow at Georgetown's Massive Data Institute, where she led the core data team, who assembled the first iteration of the [Environmental Impact Data Collaborative](https://redivis.com/EIDC).
 
 ## Research
 
-### Dissertation Project: The State that Forges Armed Criminal Groups
-Why do state agents form criminal groups? Ana Paula's dissertation answers this question by comparing two Brazilian states from the 1990s to 2000s. While in one state, groups led by rogue state agents control large parts of the metropolitan region's territory and its population, in a neighboring state, even in the face of large criminal syndicates, such groups have not been formed. She uses mixed methods to test theories and observable implications about institutional and community-based factors that contribute to or impede the formation of such groups.
-
+### Dissertation Project: The State that Forges Armed Criminal Groups (*in progress*)
+This is a book-length dissertation project that focuses on criminal groups in Brazil.
 
 ### Peer-Reviewed Publications
 
