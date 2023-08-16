@@ -22,16 +22,16 @@ Esse projeto em formato de livro explora grupos criminais no Brasil.
 [[op-ed](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5es-pand%C3%AAmicas-para-pol%C3%ADticas-de-seguran%C3%A7a-p%C3%BAblica-efetivas)]
 
 
-## Teaching
+## Teaching/Ensino
 
-#### Georgetown University, Teaching Assistant
+#### Georgetown University, Teaching Assistant / Assistente de Aula
 - GOVT 040 - Comparative Political Systems / Introductory comparative politics undergraduate seminar, Professor Langenbacher, Fall 2020;
 - GOVT 702 - Quantitative Methods II / Ph.D method sequence, Professor M Bailey, Spring 2021 & Spring 2022.
 
-#### Pontifical Catholic University of Rio de Janeiro, Minicourse Instructor
+#### Pontifical Catholic University of Rio de Janeiro, Minicourse Instructor / Instrutura de Minicurso
 - Civil Society Diplomacy. Fall, 2017 and Spring, 2018. Best-evaluated minicourse in 2017.
 
-#### Pontifical Catholic University of Rio de Janeiro, Teaching Assistant
+#### Pontifical Catholic University of Rio de Janeiro, Teaching Assistant / Assistente de Aula
 - Theoretical Foundations II / Professor C F P D S Gama. Fall, 2013
 - Violence and International Relations / Professor M Herz. Spring, 2014.
 
@@ -41,6 +41,8 @@ Esse projeto em formato de livro explora grupos criminais no Brasil.
 Please find my CV [here](https://drive.google.com/file/d/1Dux7VoeAapB7Ek3BmAwYR_8IwE5iA2zW/view?usp=sharing).
 
 
-## Contact
+## Contact/Contato
 
 You may reach me at <a href="mailto:ap1631@georgetown.edu">ap1631@georgetown.edu</a>.
+
+Você pode me escrever no email <a href="mailto:ap1631@georgetown.edu">ap1631@georgetown.edu</a>.
