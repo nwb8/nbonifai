@@ -5,16 +5,16 @@ Ana Paula Pellegrino is a PhD Candidate at the Department of Government at Georg
 Outside of academia, Ana Paula has worked in Brazilian civil society organizations conducting research and advocacy, developing technology and spearheading philantropic strategies. She was also a Fellow at Georgetown's Massive Data Institute, where she led the core data team, who assembled the first iteration of the [Environmental Impact Data Collaborative](https://redivis.com/EIDC). She also organizes the [Violence, Instability and Peace Workshop](https://vip-workshop.github.io/), a feedback-focused virtual seminar series started in 2022.
 
 
-Ana Paula Pellegrino é doutoranda no Departamento de Governo na Universidade de Georgetown. Ela usa dados e métodos quantitativos e qualitativos para estuar crime e violência, com foco em especial na América Latina. Além do apoio de Georgetown, sua pesquisa foi financiada pelo [Programa de Líderes da Fundação Estudar](https://www.estudar.org.br/) e pelo programa [Peace Scholar Fellowship](https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program) do [US Institute of Peace](www.usip.org) e da [Minerva Research Initiative's](https://minerva.defense.gov/). Brasileira, ela é mestre e bacharel em Relações Internacionais pela PUC-Rio.
+_Ana Paula Pellegrino é doutoranda no Departamento de Governo na Universidade de Georgetown. Ela usa dados e métodos quantitativos e qualitativos para estuar crime e violência, com foco em especial na América Latina. Além do apoio de Georgetown, sua pesquisa foi financiada pelo [Programa de Líderes da Fundação Estudar](https://www.estudar.org.br/) e pelo programa [Peace Scholar Fellowship](https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program) do [US Institute of Peace](www.usip.org) e da [Minerva Research Initiative's](https://minerva.defense.gov/). Brasileira, ela é mestre e bacharel em Relações Internacionais pela PUC-Rio._
 
-Fora da academia, Ana Paula trabalhou em organizações de sociedade civil brasileiras com pesquisa e articulação política, desenvolvendo tecnologia e liderando estratégias filantrópicas. Ela também foi associada ao Massive Data Institute de Georgetown, onde liderou o primeiro time de infraestrutura do [Environmental Impact Data Collaborative](https://redivis.com/EIDC). Ela também co-organiza o [Violence, Instability and Peace Workshop](https://vip-workshop.github.io/), um fórum virtual para debate de trabalhos acadêmicos fundado em 2022.
+_Fora da academia, Ana Paula trabalhou em organizações de sociedade civil brasileiras com pesquisa e articulação política, desenvolvendo tecnologia e liderando estratégias filantrópicas. Ela também foi associada ao Massive Data Institute de Georgetown, onde liderou o primeiro time de infraestrutura do [Environmental Impact Data Collaborative](https://redivis.com/EIDC). Ela também co-organiza o [Violence, Instability and Peace Workshop](https://vip-workshop.github.io/), um fórum virtual para debate de trabalhos acadêmicos fundado em 2022._
 
 ## Research/Pesquisa
 
 ### Dissertation Project/Projeto de Doutorado: The State that Forges Armed Criminal Groups (*in progress*)
 This is a book-length dissertation project that focuses on criminal groups in Brazil.
 
-Esse projeto em formato de livro explora grupos criminais no Brasil.
+_A tese doutoral explora a formação de grupos criminais no Brasil._
 
 ### Peer-Reviewed Publications / Publicações Revisadas por Pares
 
@@ -40,9 +40,11 @@ Esse projeto em formato de livro explora grupos criminais no Brasil.
 
 Please find my CV [here](https://drive.google.com/file/d/1Dux7VoeAapB7Ek3BmAwYR_8IwE5iA2zW/view?usp=sharing).
 
+_Meu CV está disponível [aqui](https://drive.google.com/file/d/1Dux7VoeAapB7Ek3BmAwYR_8IwE5iA2zW/view?usp=sharing)._
+
 
 ## Contact/Contato
 
 You may reach me at <a href="mailto:ap1631@georgetown.edu">ap1631@georgetown.edu</a>.
 
-Você pode me escrever no email <a href="mailto:ap1631@georgetown.edu">ap1631@georgetown.edu</a>.
+_Você entrar em contato pelo email <a href="mailto:ap1631@georgetown.edu">ap1631@georgetown.edu</a>._
