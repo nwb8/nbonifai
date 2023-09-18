@@ -1,6 +1,6 @@
 ### About
 
-I am a PhD Candidate in the Department of Government at Georgetown University. My dissertation project examines the role of multinational corporations to explain the recent return of econominc nationalism. I am affiliated with the [Lab for Globalization and Shared Prosperity](https://sharedprosperity.georgetown.edu) and the [Global Political Economy Project](https://mortara.georgetown.edu/research/global-political-economy-project-gpep/join-us/).
+I am a PhD Candidate in the Department of Government at Georgetown University. My research examines the role of global businesses to explain the recent rise of econominc nationalism. I am affiliated with the [Lab for Globalization and Shared Prosperity](https://sharedprosperity.georgetown.edu) and the [Global Political Economy Project](https://mortara.georgetown.edu/research/global-political-economy-project-gpep/join-us/).
 
 ### Dissertation Project
 
@@ -18,7 +18,7 @@ Moder, Isabella, and Niccolo Bonifai. 2017. Access to Finance in the Western Bal
 
 ### Public Writing
 
-Bonifai, Niccolo W., Irfan Nooruddin and Nita Rudra. The Hidden Threat to Globalization. [Foreign Affairs](https://www.foreignaffairs.com/articles/world/2021-12-03/hidden-threat-globalization) December 3rd 2021.
+Bonifai, Niccolo W., Irfan Nooruddin and Nita Rudra. The Hidden Threat to Globalization. [Foreign Affairs](https://www.foreignaffairs.com/articles/world/2021-12-03/hidden-threat-globalization) December 3 2021.
 
 ### Working Papers
 
