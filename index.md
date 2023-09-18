@@ -1,18 +1,9 @@
-## About / Sobre
+## About
 
-I am a PhD Candidate at the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by [Fundação Estudar's Leaders](https://www.estudar.org.br/) program, the [Harry Frank Guggenheim Foundation's Emerging Scholars](https://www.hfg.org/2023-emerging-scholars/) program and the [US Institute of Peace](www.usip.org) and [Minerva Research Initiative's](https://minerva.defense.gov/) [Peace Scholar Fellowship](https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program) program. A Brazilian national, she holds a BA and MA in International Relations and an MA in Data Science from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
-
-Outside of academia, Ana Paula has worked in Brazilian civil society organizations conducting research and advocacy, developing technology and spearheading philantropic strategies. She was also a Fellow at Georgetown's Massive Data Institute, where she led the core data team, who assembled the first iteration of the [Environmental Impact Data Collaborative](https://redivis.com/EIDC). She also organizes the [Violence, Instability and Peace Workshop](https://vip-workshop.github.io/), a feedback-focused virtual seminar series started in 2022.
+I am a PhD Candidate at the Department of Government at Georgetown University. My research She uses both quantitative and qualitative data and methods to study crime and violence, with a particular interest in Latin America. I am affiliated with the [Lab for Globalization and Shared Prosperity](https://sharedprosperity.georgetown.edu) and the [Global Political Economy Project](https://mortara.georgetown.edu/research/global-political-economy-project-gpep/join-us/). 
 
 
-## Research/Pesquisa
-
-### Dissertation Project/Projeto de Doutorado: The State that Forges Armed Criminal Groups (*in progress*)
-This is a book-length dissertation project that focuses on criminal groups in Brazil.
-
-_A tese doutoral explora a formação de grupos criminais no Brasil._
-
-### Peer-Reviewed Publications
+### Publications
 
 Bonifai, Niccolo W., Nita Rudra, Carew Boulding and Samantha L. Moya. 2022. Globalization and Nationalism: Contending Forces in World Politics. [International Studies Review](https://academic.oup.com/isr/article/24/2/viac021/6584768) 24(2):1-7.
 
@@ -20,7 +11,13 @@ Rudra, Nita, Irfan Nooruddin, and Niccolo W. Bonifai. Globalization Backlash in 
 
 Moder, Isabella, and Niccolo Bonifai. 2017. Access to Finance in the Western Balkans. [European Central Bank (ECB) Occasional Paper 197.](https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op197.en.pdf?24296e890f7f5c039848046670a9769a)
 
+### Public Writing
+
+
+
 ### Working Papers
+
+
 
 ## Teaching/Ensino
 
@@ -36,15 +33,10 @@ Moder, Isabella, and Niccolo Bonifai. 2017. Access to Finance in the Western Bal
 - Violence and International Relations / Professor M Herz. Spring, 2014.
 
 
-## CV
+## Resume and Contact
 
-Please find my CV [here](https://drive.google.com/file/d/1Dux7VoeAapB7Ek3BmAwYR_8IwE5iA2zW/view?usp=sharing).
-
-_Meu CV está disponível [aqui](https://drive.google.com/file/d/1Dux7VoeAapB7Ek3BmAwYR_8IwE5iA2zW/view?usp=sharing)._
-
+Please find my resume [here](https://www.dropbox.com/scl/fi/pkk3wwbtou8skx1zvt13b/NBonifai_Sept2023.pdf?rlkey=13kpto8yv0py2g1fdt2bz7r3r&dl=0).
 
 ## Contact/Contato
 
-You may reach me at <a href="mailto:ap1631@georgetown.edu">ap1631@georgetown.edu</a>.
-
-_Você entrar em contato pelo email <a href="mailto:ap1631@georgetown.edu">ap1631@georgetown.edu</a>._
+You may reach me at <a href="mailto:nwb8@georgetown.edu">ap1631@georgetown.edu</a>.
