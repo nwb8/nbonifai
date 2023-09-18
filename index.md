@@ -1,13 +1,9 @@
 ## About / Sobre
 
-Ana Paula Pellegrino is a PhD Candidate at the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by [Fundação Estudar's Leaders](https://www.estudar.org.br/) program, the [Harry Frank Guggenheim Foundation's Emerging Scholars](https://www.hfg.org/2023-emerging-scholars/) program and the [US Institute of Peace](www.usip.org) and [Minerva Research Initiative's](https://minerva.defense.gov/) [Peace Scholar Fellowship](https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program) program. A Brazilian national, she holds a BA and MA in International Relations and an MA in Data Science from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
+I am a PhD Candidate at the Department of Government at Georgetown University. She uses both quantitative and qualitative data and methods to study crime and violence, with a particular interest in Latin America. In addition to support from Georgetown, her research is supported by [Fundação Estudar's Leaders](https://www.estudar.org.br/) program, the [Harry Frank Guggenheim Foundation's Emerging Scholars](https://www.hfg.org/2023-emerging-scholars/) program and the [US Institute of Peace](www.usip.org) and [Minerva Research Initiative's](https://minerva.defense.gov/) [Peace Scholar Fellowship](https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program) program. A Brazilian national, she holds a BA and MA in International Relations and an MA in Data Science from Pontifical Catholic University of Rio de Janeiro (PUC-Rio).
 
 Outside of academia, Ana Paula has worked in Brazilian civil society organizations conducting research and advocacy, developing technology and spearheading philantropic strategies. She was also a Fellow at Georgetown's Massive Data Institute, where she led the core data team, who assembled the first iteration of the [Environmental Impact Data Collaborative](https://redivis.com/EIDC). She also organizes the [Violence, Instability and Peace Workshop](https://vip-workshop.github.io/), a feedback-focused virtual seminar series started in 2022.
 
-
-_Ana Paula Pellegrino é doutoranda no Departamento de Governo na Universidade de Georgetown. Ela usa dados e métodos quantitativos e qualitativos para estuar crime e violência, com foco em especial na América Latina. Além do apoio de Georgetown, sua pesquisa foi financiada pelo [Programa de Líderes da Fundação Estudar](https://www.estudar.org.br/) e pelo programa [Peace Scholar Fellowship](https://www.usip.org/grants-fellowships/fellowships/peace-scholar-fellowship-program) do [US Institute of Peace](www.usip.org) e da [Minerva Research Initiative's](https://minerva.defense.gov/). Brasileira, ela é mestre e bacharel em Relações Internacionais pela PUC-Rio._
-
-_Fora da academia, Ana Paula trabalhou em organizações de sociedade civil brasileiras com pesquisa e articulação política, desenvolvendo tecnologia e liderando estratégias filantrópicas. Ela também foi associada ao Massive Data Institute de Georgetown, onde liderou o primeiro time de infraestrutura do [Environmental Impact Data Collaborative](https://redivis.com/EIDC). Ela também co-organiza o [Violence, Instability and Peace Workshop](https://vip-workshop.github.io/), um fórum virtual para debate de trabalhos acadêmicos fundado em 2022._
 
 ## Research/Pesquisa
 
@@ -16,11 +12,15 @@ This is a book-length dissertation project that focuses on criminal groups in Br
 
 _A tese doutoral explora a formação de grupos criminais no Brasil._
 
-### Peer-Reviewed Publications / Publicações Revisadas por Pares
+### Peer-Reviewed Publications
 
-- Bullock, J. Pellegrino, A. P., 2022. [How do Covid-19 stay-at-home restrictions affect crime? Evidence from Rio de Janeiro, Brazil](https://www.sciencedirect.com/science/article/pii/S1517758021000175). EconomiA, v.22 n.3.
-[[op-ed](https://pp.nexojornal.com.br/opiniao/2022/Li%C3%A7%C3%B5es-pand%C3%AAmicas-para-pol%C3%ADticas-de-seguran%C3%A7a-p%C3%BAblica-efetivas)]
+Bonifai, Niccolo W., Nita Rudra, Carew Boulding and Samantha L. Moya. 2022. Globalization and Nationalism: Contending Forces in World Politics. [International Studies Review](https://academic.oup.com/isr/article/24/2/viac021/6584768) 24(2):1-7.
 
+Rudra, Nita, Irfan Nooruddin, and Niccolo W. Bonifai. Globalization Backlash in Developing Countries: Broadening the Research Agenda. [Comparative Political Studies](https://journals.sagepub.com/doi/abs/10.1177/00104140211037575), 2416-2441.
+
+Moder, Isabella, and Niccolo Bonifai. 2017. Access to Finance in the Western Balkans. [European Central Bank (ECB) Occasional Paper 197.](https://www.ecb.europa.eu/pub/pdf/scpops/ecb.op197.en.pdf?24296e890f7f5c039848046670a9769a)
+
+### Working Papers
 
 ## Teaching/Ensino
 
