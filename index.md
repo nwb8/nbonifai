@@ -13,7 +13,7 @@ Moder, Isabella, and Niccolo Bonifai. 2017. Access to Finance in the Western Bal
 
 ### Public Writing
 
-Bonifai, Niccolo W., Irfan Nooruddin and Nita Rudra. The Hidden Threat to Globalization. [Foreign Affairs](https://www.foreignaffairs.com/articles/world/2021-12-03/hidden-threat-globalization} December 3rd 2021.
+Bonifai, Niccolo W., Irfan Nooruddin and Nita Rudra. The Hidden Threat to Globalization. [Foreign Affairs](https://www.foreignaffairs.com/articles/world/2021-12-03/hidden-threat-globalization) December 3rd 2021.
 
 ### Working Papers
 
