@@ -1,8 +1,8 @@
-## About
+### About
 
 I am a PhD Candidate in the Department of Government at Georgetown University. My dissertation project examines the role of multinational corporations to explain the recent return of econominc nationalism. I am affiliated with the [Lab for Globalization and Shared Prosperity](https://sharedprosperity.georgetown.edu) and the [Global Political Economy Project](https://mortara.georgetown.edu/research/global-political-economy-project-gpep/join-us/).
 
-## Dissertation Project
+### Dissertation Project
 
 **The Dog That Stopped Barking: The Political Preferences of Multinational Corporations in the New Phase of Globalization**
 
@@ -26,8 +26,8 @@ Economic Risk and Willingness to Learn about Globalization: A Field Experiment w
 
 Empowering Labor? Unveiling the Political Dynamics of Global Value Chains (with Nita Rudra).
 
-## Resume and Contact
+## Resume
 
 Please find my resume [here](https://www.dropbox.com/scl/fi/pkk3wwbtou8skx1zvt13b/NBonifai_Sept2023.pdf?rlkey=13kpto8yv0py2g1fdt2bz7r3r&dl=0).
 
-You can reach me at <a href="mailto:nwb8@georgetown.edu">nwb8@georgetown.edu</a>.
+
