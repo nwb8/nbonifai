@@ -4,7 +4,9 @@ I am a PhD Candidate in the Department of Government at Georgetown University. M
 
 ## Dissertation Project
 
+**The Dog That Stopped Barking: The Political Preferences of Multinational Corporations in the New Phase of Globalization**
 
+The rise of political parties pursuing economic nationalist policies – vide a hard Brexit – is occurring when global businesses, who stand to lose the most from the fraying of the neoliberal economic order, are at the zenith of their economic and political power. Why? In my dissertation project, I argue that the return to economic nationalism is the manifestation of a deep structural change in the relationship between states and global markets. State-business relations are undergoing a fundamental transformation as globalization enters a new phase, one involving increasingly fragmented and geographically dispersed global supply chains. In this new phase of globalization, the varied nature of production activities among MNCs complicates their political preferences, leaving political leaders greater flexibility to undertake economic nationalist policies, even when these conflict with the open market policies that MNCs have long fought to maintain.
 
 ### Publications
 
@@ -28,4 +30,4 @@ Empowering Labor? Unveiling the Political Dynamics of Global Value Chains (with 
 
 Please find my resume [here](https://www.dropbox.com/scl/fi/pkk3wwbtou8skx1zvt13b/NBonifai_Sept2023.pdf?rlkey=13kpto8yv0py2g1fdt2bz7r3r&dl=0).
 
-You can reach me at <a href="mailto:nwb8@georgetown.edu">ap1631@georgetown.edu</a>.
+You can reach me at <a href="mailto:nwb8@georgetown.edu">nwb8@georgetown.edu</a>.
